@@ -15,7 +15,8 @@ Student 🫡
 ### IDE and Tools I Use
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" width="50" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
 
-![Susil's GitHub stats](https://github-readme-stats.vercel.app/api?username=susil-123&theme=tokyonight&show_icons=true&&hide=issues,contribs)&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[![Susil's geeksForgeeks stats](https://geeks-for-geeks-stats-api.vercel.app/?userName=susilkumarct20)](https://www.geeksforgeeks.org/user/susilkumarct20/)
+![Susil's GitHub stats](https://github-readme-stats.vercel.app/api?username=susil-123&theme=tokyonight&show_icons=true&&hide=issues,contribs)
+[![Susil's geeksForgeeks stats](https://geeks-for-geeks-stats-api.vercel.app/?userName=susilkumarct20)](https://www.geeksforgeeks.org/user/susilkumarct20/)
 \
 \
 \
