@@ -2,8 +2,8 @@
 
 Student 🫡
 <img align="right" width="370" height="370" src="https://i.pinimg.com/originals/aa/59/d1/aa59d139b93dde70ff207187c9f1d8bd.gif">
-- 🌱 I’m currently learning ML
-- 🤔 I’m looking for help with Placements in AI companies
+- 🌱 Hitting bugs since 2020
+- 🤔 looking for Placements in AI companies
 - 📫 How to reach me :
 <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/susil-kumar-k/)
 - 😄 Pronouns: Techie
